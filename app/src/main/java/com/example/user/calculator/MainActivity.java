@@ -144,66 +144,77 @@ public class MainActivity extends Activity {
             @Override
             public void onClick(View v) {
                // edt_text.setText("+");
+                //TODO: ADD ADDITION METHOD
             }
         });
         btn_min.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 //edt_text.setText("-");
+                //TODO: ADD SUBTRACTION METHOD
             }
         });
         btn_mult.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 //edt_text.setText("X");
+                //TODO: ADD MULTIPLY METHOD
             }
         });
         btn_div.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 //edt_text.setText("\u00F7");
+                //TODO: ADD DIVIDE METHOD
             }
         });
         btn_eq.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 //edt_text.setText("=");
+                //TODO: ADD EQUALITY METHOD
             }
         });
         btn_sin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 //edt_text.setText("SIN");
+                //TODO: ADD SIN METHOD
             }
         });
         btn_cos.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 //edt_text.setText("COS");
+                //TODO: ADD COS METHOD
             }
         });
         btn_tan.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 //edt_text.setText("TAN");
+                //TODO: ADD TAN METHOD
             }
         });
         btn_r_over.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 //edt_text.setText("\u221a");
+                //TODO: ADD ROOT OVER METHOD
             }
         });
         btn_sq.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 //edt_text.setText("x^2");
+                //TODO: ADD SQUARE ROOT METHOD
             }
         });
         btn_inv.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 //edt_text.setText("x^-1");
+                //TODO: ADD INVERSE METHOD
             }
         });
     }
